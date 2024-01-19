@@ -12,6 +12,8 @@ var age = 21;
 var name = "ali";
 isstudent = true; 
 hobbies = ["walk", "drivr", "travel"];
+let info = {schoolName: "BCH", grade: "A"}
+
 console.log(age);
 console.log(typeof age);
 console.log(name);
@@ -20,3 +22,6 @@ console.log(isstudent);
 console.log(typeof isstudent);
 console.log(hobbies);
 console.log(typeof hobbies);
+console.log(hobbies);
+console.log(info);
+console.log(typeof info);

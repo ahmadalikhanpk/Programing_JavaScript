@@ -1,0 +1,18 @@
+body{
+    background-color: salmon;
+    color: white;
+    
+}
+
+#blogContainer{
+    display: grid;
+    grid-gap: 25px;
+    grid-template-columns: repeat(4, 1fr);
+}
+#blogContainer div{
+    background-color: white;
+    border-radius: 5px;
+    color: #333;
+    padding: 1rem;
+
+}
